@@ -12,6 +12,11 @@
 # Ruby/Rails Files
 *.rbc
 /.bundle
+.breakpoints
+
+# Ruby/Rails Files
+*.rbc
+/.bundle
 /log/*
 /tmp/*
 !/log/.keep
@@ -49,7 +54,6 @@ yarn-debug.log*
 /config/application.yml
 /config/mongoid.yml
 /config/database.yml
-/config/master.key
 
 # Editor/OS Files
 *.swp
