@@ -1,4 +1,4 @@
-WBlog 0221
+WBlog 0223
 =======
 [![Build Status](https://travis-ci.org/windy/wblog.svg?branch=master)](https://travis-ci.org/windy/wblog)
 [![Maintainability](https://api.codeclimate.com/v1/badges/545d8372a9dda70b77fe/maintainability)](https://codeclimate.com/github/windy/wblog/maintainability)
@@ -16,7 +16,7 @@ New: WBlog is using Ruby on Rails 7.1 now.
 
 [中文说明文档](/README.zh-CN.md)
 
-Characteristic: 1846
+Characteristic: 1033
 
 * Modern clean reading feelings
 * Markdown support, give nice formatted articles
